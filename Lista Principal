@@ -1,0 +1,430 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-id="Band Sports HD" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports HD
+http://lb.kstream.org/aovivo/HD_BAND_SPORTS/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Band Sports HD [Alter]" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports HD [Alter]
+http://lb.kstream.org/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Combate HD" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate HD
+http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Combate HD [Alter]" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate HD [Alter]
+http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="ESPN HD" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN HD
+http://lb.kstream.org/aovivo/HD_ESPN/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="ESPN HD [Alter]" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN HD [Alter]
+http://lb.kstream.org/aovivo/HD_ESPN_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil HD" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil HD
+http://lb.kstream.org/aovivo/HD_HDUASBDOM/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil HD [Alter]" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil HD [Alter]
+http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="ESPN Extra HD" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra HD
+http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Fox Sports HD" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports HD
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Fox Sports HD [Alter]" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Fox Sports HD(ARG)" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports HD(ARG)
+https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/kx8ric6rf.m3u8?s=_J5DuSUHU0D_r38AFL022g&e=1616327368
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2 HD" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png" group-title="Esporte",Fox Sports 2 HD
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2 HD [Alter]" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png" group-title="Esporte",Fox Sports 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SporTV HD" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD
+http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SporTV HD [Alter]" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD [Alter]" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 HD" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 HD [Alter]" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Sport-tv1 HD (POR)" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5" group-title="Esporte",Sport-tv1
+https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=__pNpCb8tF9-8gDgHRHtRQ&e=1616401897
+#EXTINF:-1 type="stream" tvg-id="Sport-tv2 HD (POR)" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5" group-title="Esporte",Sport-tv2
+https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/u225jtufy2dkv.m3u8?s=L16vntBvLscZTUQeuf71Ng&e=1616401990
+#EXTINF:-1 type="stream" tvg-id="Sport-tv3 HD (POR)" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5" group-title="Esporte",Sport-tv3
+https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/t69y1s69ffvz.m3u8?s=R7ob9Lx1u563DG7cP1qGpA&e=1616402024
+#EXTINF:-1 type="stream" tvg-id="Rai Sport+HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Rai_Sport_-_Logo_2017.svg" group-title="Esporte",Rai Sport+HD
+https://2d02.janjua.pw:8088/live/sfdfdg/playlist.m3u8?vidictid=187077717234&id=103612&pk=8a135921bec85c751ebf3198ba017f168841fb949f3595dd4403d6e08e526ac4
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere Clubes HD
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere Clubes HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere Clubes
+http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 2 HD
+http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 3 HD
+http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 3 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 4 HD
+http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 4 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 5 HD
+http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 5 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 6 HD
+http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 6 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Premiere 7 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Futebol AO VIVO",Premiere 7 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TNT Sports Jogo 1 HD" tvg-logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" group-title="Futebol AO VIVO",TNT Sports Jogo 1 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_4/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TNT Sports Jogo 2 HD" tvg-logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" group-title="Futebol AO VIVO",TNT Sports Jogo 2 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_5/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TNT Sports Jogo 3 HD" tvg-logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" group-title="Futebol AO VIVO",TNT Sports Jogo 3 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_6/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TNT Sports Jogo 4 HD" tvg-logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" group-title="Futebol AO VIVO",TNT Sports Jogo 4 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_7/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TNT Sports Originais HD" tvg-logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" group-title="Futebol AO VIVO",TNT Sports Originais HD
+http://lb.kstream.org/aovivo/HD_EI_PLUS_3/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Campeonato Carioca 1 HD" tvg-logo="https://i.ibb.co/2gs16H4/200px-Carioca-2020-FERJ.jpg" group-title="Futebol AO VIVO",Campeonato Carioca 1 HD
+http://lb.kstream.org/aovivo/HD_CARIOCA_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Campeonato Carioca 2 HD" tvg-logo="https://i.ibb.co/2gs16H4/200px-Carioca-2020-FERJ.jpg" group-title="Futebol AO VIVO",Campeonato Carioca 2 HD
+http://lb.kstream.org/aovivo/HD_CARIOCA_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="CONMEBOL TV 01 HD" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png" group-title="Futebol AO VIVO",CONMEBOL TV 01 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_01/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="CONMEBOL TV 02 HD" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png" group-title="Futebol AO VIVO",CONMEBOL TV 02 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_02/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="CONMEBOL TV 03 HD" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png" group-title="Futebol AO VIVO",CONMEBOL TV 03 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_03/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="CONMEBOL TV 04 HD" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png" group-title="Futebol AO VIVO",CONMEBOL TV 04 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_04/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Band HD" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band HD
+http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Band HD [Alter]" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band HD [Alter]
+http://lb.kstream.org/aovivo/HD_BAND_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Globo TV Rio HD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="Globo TV",Globo TV Rio HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Globo TV Rio HD [Alter]" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="Globo TV",Globo TV Rio HD [Alter]
+http://lb.kstream.org/aovivo/HD_GLOBO_RJ_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Record HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="Record TV",Record HD
+http://lb.kstream.org/aovivo/HD_RECORD/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Record HD [Alter]" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="Record TV",Record HD [Alter]
+http://lb.kstream.org/aovivo/HD_RECORD_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SBT HD" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta",SBT HD
+http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="SBT HD [Alter]" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta",SBT HD [Alter]
+http://lb.kstream.org/aovivo/HD_SBT_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="RedeTV! HD" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png" group-title="TV Aberta",RedeTV! HD
+http://lb.kstream.org/aovivo/HD_REDETV/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="RedeTV! HD [Alter]" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png" group-title="TV Aberta",RedeTV! HD [Alter]
+http://lb.kstream.org/aovivo/HD_REDETV_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Academia" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Academia
+http://lb.kstream.org/aovivo/HD_BBB_10/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Acompanhe a Casa" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Acompanhe a Casa
+http://lb.kstream.org/aovivo/HD_BBB_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Acompanhe a Casa 2" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Acompanhe a Casa 2
+http://lb.kstream.org/aovivo/HD_BBB_11/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Chuveiro" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Chuveiro
+http://lb.kstream.org/aovivo/HD_BBB_5/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Confessionario" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Confessionario
+http://lb.kstream.org/aovivo/HD_BBB_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Cozinha Vip/Xepa" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Cozinha Vip/Xepa
+http://lb.kstream.org/aovivo/HD_BBB_6/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Jardim" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Jardim
+http://lb.kstream.org/aovivo/HD_BBB_9/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Piscina" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Piscina
+http://lb.kstream.org/aovivo/HD_BBB_8/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Quarto Colorido" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Quarto Colorido
+http://lb.kstream.org/aovivo/HD_BBB_4/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Quarto Cordel" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Quarto Cordel
+http://lb.kstream.org/aovivo/HD_BBB_3/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB HD: Sala de Estar" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Sala de Estar
+http://lb.kstream.org/aovivo/HD_BBB_7/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB: 1 [Alter]" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB: 1 [Alter]
+http://lb.kstream.org/aovivo/HD_BBB_1_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB: 2 [Alter]" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB: 2 [Alter]
+http://lb.kstream.org/aovivo/HD_BBB_2_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="BBB: 3 [Alter]" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB: 3 [Alter]
+http://lb.kstream.org/aovivo/HD_BBB_3_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme",AXN HD
+http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="AXN HD [Alter]" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme",AXN HD [Alter]
+http://lb.kstream.org/aovivo/HD_AXN_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Canal Brasil HD" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title="Filme",Canal Brasil HD
+http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Canal Brasil HD [Alter]" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title="Filme",Canal Brasil HD [Alter]
+http://lb.kstream.org/aovivo/HD_CANAL_BRASIL_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Cinemax HD" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme",Cinemax HD
+http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Cinemax HD [Alter]" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme",Cinemax HD [Alter]
+http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="FX HD" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme",FX HD
+http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="FX HD [Alter]" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme",FX HD [Alter]
+http://lb.kstream.org/aovivo/HD_FX_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO HD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme",HBO HD
+http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO HD [Alter]" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme",HBO HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO 2 HD" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme",HBO 2 HD
+http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO 2 HD [Alter]" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme",HBO 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_2_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Family HD" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme",HBO Family HD
+http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Family HD [Alter]" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme",HBO Family HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Mundi HD" tvg-logo="https://i.ibb.co/VYgSSN1/hbomundib.png" group-title="Filme",HBO Mundi HD
+http://lb.kstream.org/aovivo/HD_HBO_MUNDI/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Mundi HD [Alter]" tvg-logo="https://i.ibb.co/VYgSSN1/hbomundib.png" group-title="Filme",HBO Mundi HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_MUNDI_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO POP HD" tvg-logo="https://i.ibb.co/BjbCJQt/hbopopb.png" group-title="Filme",HBO POP HD
+http://lb.kstream.org/aovivo/HD_HBO_POP/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO POP HD [Alter]" tvg-logo="https://i.ibb.co/BjbCJQt/hbopopb.png" group-title="Filme",HBO POP HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_POP_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Plus HD" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme",HBO Plus HD
+http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Plus HD [Alter]" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme",HBO Plus HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Signature HD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme",HBO Signature HD
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Signature HD [Alter]" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme",HBO Signature HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Xtreme HD" tvg-logo="https://i.ibb.co/B417Vxd/hboxtremeb.png" group-title="Filme",HBO Xtreme HD
+http://lb.kstream.org/aovivo/HD_HBO_XTREME/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="HBO Xtreme HD [Alter]" tvg-logo="https://i.ibb.co/B417Vxd/hboxtremeb.png" group-title="Filme",HBO Xtreme HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_XTREME_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="I-Sat HD" tvg-logo="https://i.ibb.co/X74fJNy/isat.png" group-title="Filme",I-Sat HD
+http://lb.kstream.org/aovivo/HD_ISAT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Lifetime HD" tvg-logo="https://i.ibb.co/5rp1PW0/lifetime.png" group-title="Filme",Lifetime HD
+http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Megapix HD" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png" group-title="Filme",Megapix HD
+http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Megapix HD [Alter]" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png" group-title="Filme",Megapix HD [Alter]
+http://lb.kstream.org/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Paramount HD" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png" group-title="Filme",Paramount HD
+http://lb.kstream.org/aovivo/HD_PARAMOUNT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Paramount HD [Alter]" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png" group-title="Filme",Paramount HD [Alter]
+http://lb.kstream.org/aovivo/HD_PARAMOUNT_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Primebox Brasil HD" tvg-logo="https://i.ibb.co/RPgYRF4/primeboxbrazil.png" group-title="Filme",Primebox Brasil HD
+http://lb.kstream.org/aovivo/HD_PRIMEBOX_BRASIL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Sony HD" tvg-logo="https://i.ibb.co/rFxKrFQ/sony.png" group-title="Filme",Sony HD
+http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Sony HD [Alter]" tvg-logo="https://i.ibb.co/rFxKrFQ/sony.png" group-title="Filme",Sony HD [Alter]
+http://lb.kstream.org/aovivo/HD_SONY_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Space HD" tvg-logo="https://i.ibb.co/pwRK1xT/spacehd.png" group-title="Filme",Space HD
+http://lb.kstream.org/aovivo/HD_SPACE/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Space HD [Alter]" tvg-logo="https://i.ibb.co/pwRK1xT/spacehd.png" group-title="Filme",Space HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPACE_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Star Channel HD" tvg-logo="https://i.ibb.co/s5F3q50/Star-Channel-2020.png" group-title="Filme",Star Channel HD
+http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Star Channel HD [Alter]" tvg-logo="https://i.ibb.co/s5F3q50/Star-Channel-2020.png" group-title="Filme",Star Channel HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Star Premium 1 HD" tvg-logo="https://i.ibb.co/KqTmsRp/Star-Premium-logo.png" group-title="Filme",Star Premium 1 HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Star Premium 1 HD [Alter]" tvg-logo="https://i.ibb.co/KqTmsRp/Star-Premium-logo.png" group-title="Filme",Star Premium 1 HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Star Premium 2 HD" tvg-logo="https://i.ibb.co/KqTmsRp/Star-Premium-logo.png" group-title="Filme",Star Premium 2 HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Star Premium 2 HD [Alter]" tvg-logo="https://i.ibb.co/KqTmsRp/Star-Premium-logo.png" group-title="Filme",Star Premium 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Studio Universal HD" tvg-logo="https://i.ibb.co/jTzy2TB/studiouniversalb.png" group-title="Filme",Studio Universal HD
+http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Studio Universal HD [Alter]" tvg-logo="https://i.ibb.co/jTzy2TB/studiouniversalb.png" group-title="Filme",Studio Universal HD [Alter]
+http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Syfy HD" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png" group-title="Filme",Syfy HD
+http://lb.kstream.org/aovivo/HD_SYFY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Syfy HD [Alter]" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png" group-title="Filme",Syfy HD [Alter]
+http://lb.kstream.org/aovivo/HD_SYFY_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TBS HD" tvg-logo="https://i.ibb.co/kXhr2Cr/tbsb.png" group-title="Filme",TBS HD
+http://lb.kstream.org/aovivo/HD_TBS/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TBS HD [Alter]" tvg-logo="https://i.ibb.co/kXhr2Cr/tbsb.png" group-title="Filme",TBS HD [Alter]
+http://lb.kstream.org/aovivo/HD_TBS_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TCM HD" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png" group-title="Filme",TCM HD
+http://lb.kstream.org/aovivo/HD_TCM/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TCM HD [Alter]" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png" group-title="Filme",TCM HD [Alter]
+http://lb.kstream.org/aovivo/HD_TCM_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TNT HD" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme",TNT HD
+http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TNT HD [Alter]" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme",TNT HD [Alter]
+http://lb.kstream.org/aovivo/HD_TNT_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TNT Series HD" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme",TNT Series HD
+http://lb.kstream.org/aovivo/HD_TNT_SERIES/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="TNT Series HD [Alter]" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme",TNT Series HD [Alter]
+http://lb.kstream.org/aovivo/HD_TNT_SERIES_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD [Alter]" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme",Telecine Action HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme",Telecine Action HD
+http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="Filme",Telecine Cult HD
+http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD [Alter]" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="Filme",Telecine Cult HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme",Telecine Fun HD
+http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD [Alter]" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme",Telecine Fun HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme",Telecine Pipoca HD
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD [Alter]" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme",Telecine Pipoca HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium FHD [Leg]" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme",Telecine Premium FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_TC_PREMIUM_LEG/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme",Telecine Premium HD
+http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme",Telecine Touch HD
+http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD [Alter]" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme",Telecine Touch HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Warner Channel HD" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme",Warner Channel HD
+http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Warner Channel HD [Alter]" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme",Warner Channel HD [Alter]
+http://lb.kstream.org/aovivo/HD_WARNER_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Comedy Central HD" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Entretenimento",Comedy Central HD
+http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Comedy Central HD [Alter]" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Entretenimento",Comedy Central HD [Alter]
+http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="MTV HD" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png" group-title="Entretenimento",MTV HD
+http://lb.kstream.org/aovivo/HD_MTV/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="MTV HD [Alter]" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png" group-title="Entretenimento",MTV HD [Alter]
+http://lb.kstream.org/aovivo/HD_MTV_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Multishow HD" tvg-logo="https://i.ibb.co/R0nqMq0/multishow.png" group-title="Entretenimento",Multishow HD
+http://lb.kstream.org/aovivo/HD_MULTISHOW/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Multishow HD [Alter]" tvg-logo="https://i.ibb.co/R0nqMq0/multishow.png" group-title="Entretenimento",Multishow HD [Alter]
+http://lb.kstream.org/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Music Box Brazil HD" tvg-logo="https://i.ibb.co/rb8wvmv/musicboxbrazil.png" group-title="Entretenimento",Music Box Brazil HD
+http://lb.kstream.org/aovivo/HD_MUSIC_BOX_BRASIL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Play TV HD" tvg-logo="https://i.ibb.co/my6jxPJ/playtv.png" group-title="Entretenimento",Play TV HD
+http://lb.kstream.org/aovivo/HD_PLAYTV/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Play TV [Alter]" tvg-logo="https://i.ibb.co/my6jxPJ/playtv.png" group-title="Entretenimento",Play TV [Alter]
+http://lb.kstream.org/aovivo/HD_PLAYTV_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="VH1 HD" tvg-logo="https://i.ibb.co/PxbRShF/vh1hd.png" group-title="Entretenimento",VH1 HD
+http://lb.kstream.org/aovivo/HD_VH1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="VH1 HD [Alter]" tvg-logo="https://i.ibb.co/PxbRShF/vh1hd.png" group-title="Entretenimento",VH1 HD [Alter]
+http://lb.kstream.org/aovivo/HD_VH1_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Food Network HD" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title="Variedade",Food Network HD
+http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Food Network HD [Alter]" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title="Variedade",Food Network HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="GNT HD" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png" group-title="Variedade",GNT HD
+http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="GNT HD [Alter]" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png" group-title="Variedade",GNT HD [Alter]
+http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Mais Globosat HD" tvg-logo="https://i.ibb.co/tsRJmPR/maisglobosatb.png" group-title="Variedade",Mais Globosat HD
+http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Mais Globosat HD [Alter]" tvg-logo="https://i.ibb.co/tsRJmPR/maisglobosatb.png" group-title="Variedade",Mais Globosat HD [Alter]
+http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Polishop TV" tvg-logo="https://i.ibb.co/7gXnzhb/unnamed.png" group-title="Variedade",Polishop TV
+http://lb.kstream.org/aovivo/SD_POLISHOP/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Shoptime" tvg-logo="https://i.ibb.co/mzQqdgy/shoptime-confiavel.png" group-title="Variedade",Shoptime
+http://lb.kstream.org/aovivo/HD_SHOPTIME/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Viva HD" tvg-logo="https://i.ibb.co/W0w20Dn/viva2018.png" group-title="Variedade",Viva HD
+http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Viva HD [Alter]" tvg-logo="https://i.ibb.co/W0w20Dn/viva2018.png" group-title="Variedade",Viva HD [Alter]
+http://lb.kstream.org/aovivo/HD_VIVA_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Boomerang HD" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang HD
+http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Boomerang HD [Alter]" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang HD [Alter]
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network HD" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network HD
+http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network HD [Alter]" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network HD [Alter]
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids HD" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids HD [Alter]" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Disney Channel HD" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel HD
+http://lb.kstream.org/aovivo/HD_DISNEY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Disney Channel HD [Alter]" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISNEY_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Disney JR HD" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR HD
+http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Disney JR HD [Alter]" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+EXTINF:-1 type="stream" tvg-id="Gloob HD" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png" group-title="Infantil",Gloob HD
+http://lb.kstream.org/aovivo/HD_GLOOB/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Gloob HD [Alter]" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png" group-title="Infantil",Gloob HD [Alter]
+http://lb.kstream.org/aovivo/HD_GLOOB_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Infantil",Nickelodeon
+http://lb.kstream.org/aovivo/SD_NICKELODEON/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Infantil",Nickelodeon HD
+http://lb.kstream.org/aovivo/HD_NICKELODEON/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Band News HD" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="Notícia",Band News HD
+http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Band News HD [Alter]" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="Notícia",Band News HD [Alter]
+http://lb.kstream.org/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="CNN Brasil HD" tvg-logo="http://img.kudaplay.com/1584422036_CNN_Brasil.png" group-title="Notícia",CNN Brasil HD
+http://lb.kstream.org/aovivo/HD_CNN_BR/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="CNN International HD" tvg-logo="https://i.ibb.co/X4JhqpB/cnni.png" group-title="Notícia",CNN International HD
+http://lb.kstream.org/aovivo/SD_CNN_INTERNATIONAL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="GloboNews HD" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="Notícia",GloboNews HD
+http://lb.kstream.org/aovivo/HD_GLOBONEWS/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="GloboNews HD [Alter]" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="Notícia",GloboNews HD [Alter]
+http://lb.kstream.org/aovivo/HD_GLOBONEWS_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Record News HD" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="Notícia",Record News HD
+http://lb.kstream.org/aovivo/HD_RECORD_NEWS/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Record News HD [Alter]" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="Notícia",Record News HD [Alter]
+http://lb.kstream.org/aovivo/HD_RECORDNEWS_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Animal Planet HD" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet HD
+http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Animal Planet HD [Alter]" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet HD [Alter]
+http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel HD" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel HD [Alter]" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel HD [Alter]
+#EXTINF:-1 type="stream" tvg-id="Discovery Science HD" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Discovery Science HD [Alter]" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater HD" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater HD [Alter]" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD [Alter]" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+EXTINF:-1 type="stream" tvg-id="Discovery World HD" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Discovery World HD [Alter]" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Disney Channel HD" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel HD
+http://lb.kstream.org/aovivo/HD_DISNEY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Disney Channel HD [Alter]" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISNEY_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Futura HD" tvg-logo="https://i.ibb.co/K6zprYB/futura.png" group-title="Documentario",Futura HD
+http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="History HD" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History HD
+http://lb.kstream.org/aovivo/HD_HISTORY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="History HD [Alter]" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History HD [Alter]
+http://lb.kstream.org/aovivo/HD_HISTORY_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Natgeo Wild HD" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild HD
+http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Natgeo Wild HD [Alter]" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild HD [Alter]
+http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="National Geographic HD" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png" group-title="Documentario",National Geographic HD
+http://lb.kstream.org/aovivo/HD_NAT_GEO/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="National Geographic HD [Alter]" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png" group-title="Documentario",National Geographic HD [Alter]
+http://lb.kstream.org/aovivo/HD_NAT_GEO_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
